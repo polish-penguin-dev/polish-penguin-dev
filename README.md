@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @polish-penguin-dev
-- 👀 I’m interested in learning new programming languages!
-- 🌱 I’m currently learning JavaScript (node.js), C#
-- 💞️ I’m looking to collaborate on repl.it, https://replit.com/@polish-penguin-dev/
-- 📫 How to reach me: service@penguinproductions.xyz, https://www.penguinproductions.xyz/
+# Hello!
 
-<!---
-polish-penguin-dev/polish-penguin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is polish-penguin-dev and I'm a fullstack javascript, dart developer. Here are some of the tools I use:
+-node.js, deno
+-typescript
+-coffeescript
+
+Here are some of the frameworks I know:
+-Learning three.js
+-Electron
+-Express
+-Firebase and mongo API
+-Discord.js
+And many more
+
+Looking to contribute on replit, polish-penguin-dev!
